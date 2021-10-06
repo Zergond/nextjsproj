@@ -1,0 +1,14 @@
+{
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true,
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true,
+  },
+  "files.autoSaveDelay": 500
+}
